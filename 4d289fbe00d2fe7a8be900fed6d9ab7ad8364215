@@ -1,0 +1,29 @@
+packages/opencode/src/cli/cmd/tui/routes/session/index.tsx
+  405320927832ea8c 1202
+packages/opencode/package.json
+  405320927832ea8c 125-126
+packages/opencode/src/cli/cmd/tui/ui/dialog.tsx
+  405320927832ea8c 47
+packages/plugin/package.json
+  405320927832ea8c 37-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "4d289fbe00d2fe7a8be900fed6d9ab7ad8364215",
+  "prompts": {
+    "405320927832ea8c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_2668b81a3ffe187T2kgMh95EMY",
+        "model": "unknown"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 8,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
