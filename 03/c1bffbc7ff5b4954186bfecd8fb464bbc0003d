@@ -1,0 +1,25 @@
+packages/opencode/src/cli/cmd/tui/routes/session/index.tsx
+  56749efe53496411 1202
+packages/opencode/src/cli/cmd/tui/ui/dialog.tsx
+  56749efe53496411 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "03c1bffbc7ff5b4954186bfecd8fb464bbc0003d",
+  "prompts": {
+    "56749efe53496411": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3db105f2-266c-487b-8238-38b54a5660a1",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
